@@ -5,19 +5,20 @@
 <br />
 
 <p>
-    **Enunciado:** De acordo com o exemplo apresentado durante a aula de testes 
-    automatizados do ioasys camp, desenvolver o teste unitário do componente 
-    localizado na pasta `src > components > ShoppingList` do projeto criado na
-    branch `challenge/front-end`.
+<b>Enunciado:</b> <br /><br />De acordo com o exemplo apresentado durante a aula de testes 
+automatizados do ioasys camp, desenvolver o teste unitário do componente 
+localizado na pasta <code>src > components > ShoppingList</code> do projeto criado na
+branch <code>challenge/front-end</code>.
 </p>
-
-## Desafio Back-end
 
 <br />
 
+## Desafio Back-end
+
+<br /> 
 <p>
-    **Enunciado:** De acordo com o exemplo apresentado durante a aula de testes 
-    automatizados do ioasys camp, desenvolver o teste unitário do componente 
-    localizado na pasta `src > components > ShoppingList` do projeto criado na
-    branch `challenge/front-end`.
+<b>Enunciado:</b> <br /><br />De acordo com o exemplo apresentado durante a aula de testes 
+automatizados do ioasys camp, desenvolver o teste unitário do componente 
+localizado na pasta <code>src > components > ShoppingList</code> do projeto criado na
+branch <code>challenge/front-end</code>.
 </p>
