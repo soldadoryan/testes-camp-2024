@@ -1,0 +1,14 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/soldadoryan/testes-camp-2024.git",
+  "author": "Ryan Drumond",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "supertest": "^7.0.0"
+  }
+}
