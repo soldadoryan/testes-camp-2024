@@ -8,7 +8,7 @@
 <b>Enunciado:</b> <br /><br />De acordo com o exemplo apresentado durante a aula de testes 
 automatizados do ioasys camp, desenvolver o teste unitário do componente 
 localizado na pasta <code>src > components > ShoppingList</code> do projeto criado na
-branch <code>challenge/front-end</code>.
+branch <code>challenge/frontend</code>.
 </p>
 
 <br />
@@ -20,5 +20,5 @@ branch <code>challenge/front-end</code>.
 <b>Enunciado:</b> <br /><br />De acordo com o exemplo apresentado durante a aula de testes 
 automatizados do ioasys camp, desenvolver o teste unitário do componente 
 localizado na pasta <code>src > components > ShoppingList</code> do projeto criado na
-branch <code>challenge/front-end</code>.
+branch <code>challenge/frontend</code>.
 </p>
