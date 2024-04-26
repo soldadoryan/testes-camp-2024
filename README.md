@@ -13,6 +13,6 @@
 
 - `main:` Instruções para o desafio no arquivo CHALLENGE.md
 
-- `example/frontend:` Exemplo de teste unitário com Jest em um componente React;
+- `example/frontend:` Exemplo de teste unitário com Jest + Testing Library em um componente React;
 
-- `example/backend:` Exemplo de teste unitário com Supertest em uma API Express;
+- `example/backend:` Exemplo de teste unitário com Jest + Supertest em uma API pública;
