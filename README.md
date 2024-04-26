@@ -16,7 +16,3 @@
 - `example/frontend:` Exemplo de teste unitário com Jest em um componente React;
 
 - `example/backend:` Exemplo de teste unitário com Supertest em uma API Express;
-
-- `challenge/frontend:` Setup para conclusão do desafio front-end;
-
-- `challenge/backend:` Setup para conclusão do desafio back-end;
