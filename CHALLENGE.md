@@ -28,7 +28,7 @@ automatizados do ioasys camp, desenvolver os testes para outro endpoint da API [
 não seja o de Pokemons. A ideia do desafio é testar o máximo de respostas e status para garantir o funcionamento
 do endpoint.
 </p>
-
+<br />
 ## Entrega dos desafios
 
 Os participantes deverão subir os desafios em um repositório do Github e enviar
