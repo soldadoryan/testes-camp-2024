@@ -10,7 +10,7 @@ automatizados do ioasys camp, desenvolver um componente de lista de compras e se
 Através de um formulário, o usuário poderá adicionar produtos e suas quantidades em uma 
 lista de compras. Nesta mesma lista o usuário poderá clicar em um botão para remover um 
 produto independente de sua quantidade.
-
+</p>
 <br />
 
 <img src="https://media.discordapp.net/attachments/1192110717126582273/1233207085588545606/image.png?ex=662c4119&is=662aef99&hm=794fd7e0eee07d156f842e135a55db8c81998476acce87770e2bf1c4831851bc&=&format=webp&quality=lossless&width=795&height=449" />
